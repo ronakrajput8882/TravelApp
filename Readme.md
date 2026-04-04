@@ -159,17 +159,11 @@ TravelApp/
    cd TravelApp
    ```
 
-2. **Reorganize files** *(only needed if files are still flat in root)*
-   ```bash
-   chmod +x restructure.sh
-   ./restructure.sh
-   ```
-
-3. **Open in Android Studio**
+2. **Open in Android Studio**
    - File → Open → select the `TravelApp/` folder
    - Wait for Gradle sync to finish
 
-4. **Run**
+3. **Run**
    - Choose a device/emulator and click **Run ▶**
 
 ---
@@ -228,7 +222,7 @@ This project is open source under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Ronak Rajput**
+**Ronaksinh Rajput**
 - GitHub: [@ronakrajput8882](https://github.com/ronakrajput8882)
 
 ---
