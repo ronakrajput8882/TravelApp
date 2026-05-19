@@ -13,3 +13,4 @@
 [2026-05-18T19:40:00] commit #13: chore: update .gitignore and project structure
 [2026-05-19T10:15:00] commit #1: feat: add data preprocessing pipeline
 [2026-05-19T11:42:00] commit #2: feat: implement feature engineering module
+[2026-05-19T13:20:00] commit #3: fix: resolve null handling in dataset loader
